@@ -84,7 +84,7 @@ def get_season_data(start_year, end_year, postseason_data):
 
 
 if __name__ == '__main__':
-    starting_year = 2005
+    starting_year = 1996
     ending_year = 2021
     slug = 'https://www.baseball-reference.com'
 
